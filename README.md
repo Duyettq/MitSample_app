@@ -1,2 +1,2 @@
-# MitSample_app
+# sample_app
 Stairway to Nippon
